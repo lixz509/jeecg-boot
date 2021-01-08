@@ -1,0 +1,72 @@
+[33mc56c3854944c2d010edb07e8bfdece360a3d0d4b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m 修改4
+[33m80463181511b4dba56b34a96d7fbc95cb228ac36[m 修改3
+[33mcad72028b308873ce89d19a4c34c7919c3143eb8[m 添加端口2
+[33m054807833324bf19cc767139099987e937aed0e3[m 添加前端打包文件
+[33m4fe588436d5da22c4fc8c1b655cabc9b704e4b7d[m 修改端口号
+[33m8d674961fc752aa8f623e20e8c66923ef5a343d9[m 首次提交
+[33m1fd0b5d4db3f59c30d8910d488d908b6470d90c0[m --date:20201226--for:--升级aliyun短信依赖、aliyun.oss云存储依赖、minio依赖、qiniu云依赖、justauth授权登录okhttp冲突问题---- jeecg-boot-base/jeecg-boot-base-core/org/jeecg/common/util/MinioUtil.java jeecg-boot-base/jeecg-boot-base-core/pom.xml pom.xml
+[33m693d86cf001333fff1e955e60bb9603902eb3845[m 上传图片报错 #2090 cn.hutool.core.lang.Singleton.get(Ljava/lang/String;Lcn/hutool/core/lang/func/Func0;)Ljava/lang/Object;
+[33m9a3f872d6383f5710ae16603ebed5ff018fbece2[m Merge pull request #2107 from Junvary/master
+[33m5b82a1aa0625f75e35252ff2b5e871eba3165754[m Merge pull request #1967 from tank99tank/char_400
+[33m3cb88452dc05819a59488b7096201b12994d71ce[m[33m ([m[1;33mtag: v2.4.1[m[33m)[m 增量升级脚步语法错误修复
+[33m2fa1c7c17b5c0ce9550d74c2278c031f9c47766b[m 修复  菜单管理-编辑-默认跳转地址   不显示内容的bug
+[33mb6a30850834a3ab9954eedc3232f74014e94ee0c[m 2,4版本问题如果url中有包括中文（已编码），就报400 Bad Request #2069
+[33m8a7fc033cd78c988eaddde27bb58e5a66bfd4288[m demo示例设置展示列效果优化 系统设置菜单消失 #2079 Failed to execute 'getComputedStyle' on 'Window 升级代码生成器模板
+[33me0cf946d181841c9904c5402dccc6a72f2f0fd0d[m 字典明细禁用样式 上传图片组件大小不一致问题 注册用户总是提示“手机验证码错误” #2081 接口测试支持更多请求方式 菜单删除确认按钮样式变形问题 示例模板优化TableInnerEditList.vue 当用户单租户多部门时存在未setTenant的BUG #2053
+[33mc5b33b6bd12c1b7e9d9d9da6f6a470e4f48e5886[m 解决前端增加用户模块 密码的校验规则没有生效 #2063
+[33maec00d9ba27c46b8480222f29caa3c548c119dd0[m 上传中文文件名转为拼音、Long类型精度丢失问题 issues/I24KXI、达梦数据库兼容修改
+[33m341830c5a0d80fafe996c65fb81c0a29301578a1[m 2.4版本更新后子表onlChange方法不生效 #2059
+[33mff45fe485800b187f69c384a0538823c0c5f074f[m 解决性能监控（请求追踪、tomcat信息）菜单，打开报错的问题
+[33mc13ed675a7da97e8a72453499658e8098536c688[m 单体和微服务启动类加注释
+[33m6917e91398bc48ccdd45124269ed9baa770e7896[m system微服务启动类更名,方便区分单机和微服务
+[33m18a5c247d8cb9c601ac6cb0d4196997bfd007ac5[m 解决QRTZ_*表区分大小写的问题
+[33m51bf9a7c147319b3a5a465d4583949a246eb4636[m[33m ([m[1;33mtag: 2.4.1[m[33m)[m 【通知公告】发送指定人，admin收不到信息
+[33m8278041aebef961d36fd7a4c36f9fc5fe5f7760a[m 解决SqlServer下online表单普通同步，会删除了表，未保留数据
+[33m39bb7a46fde650e46eea81d0b2e538a988be8e16[m gateway路由采用database方式加载，失败问题解决
+[33m1c234fbaff334b4a34b5dc678b244ae67a13213d[m 更新文档地址
+[33mca1f5872be9af2b3c78bd5e29e02bddac415d64d[m 解决oracle数据库，代码生成报错的问题
+[33m2ae3844d5eadfaf6282083e130276365998b279b[m 解决jeecgboot-mysql-5.7.sql导入不成功 #2051
+[33mc2db7691d16b29e874e11a4145541395b923640a[m[33m ([m[1;33mtag: 2.4.0[m[33m)[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33m543a49fcb60c9b006a9db7bc7f18b1bdbf4c68e6[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33mdf6cf7137c9956636a20033ee3f68fe28ed8d591[m 路由配置修改
+[33md7450cab0437b08d5e63ce475c0d0340698baf44[m 修复发现的 JeecgBoot 2.4版本问题
+[33m496d85265b6b88347bc72f54b4d38def63be723a[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33mb4b1162ea033ec2693fae3c6bb5eb605407a53b0[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33m33e39941fb4c8e266c5e1e2613da87808d920cd7[m 低代码和零代码在线开发概念
+[33m1b5ba9f56b4420c4c8061fc0ae4f08c5af49e7ee[m 低代码和零代码在线开发概念
+[33m0aadc70e74b49269a35617b142ddb544b227de86[m JEECG 低代码和零代码在线开发概念
+[33m94aed3ade427113c431b17c1ffbd8e3c9e635556[m JEECG 低代码和零代码在线开发概念
+[33m9657eac67311b7b8f176cbe7c45b9a8adb13e078[m jeecg 零代码和低代码开发介绍
+[33m680a8b3c42aa07eca773aa3ae11d0da9c20680ca[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33m6e6f88620a0c1fbdf3cd12b5f0b1e391e620b449[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33m14f4f92d84724101aa3a1952a7decbba10d5a53b[m 低代码模块说明
+[33m2c4597c0a9a0dfbc4324b4c7100721aeaf4afa71[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33m757f1cd5a80ab7e16810a1e88b36c2922e74ae0a[m 低代码功能说明
+[33m3c62a58d64b109648bb1822453813254ead017cd[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33mbec39867a95df8a367a83bcabfa32bd313a14bb6[m mysql脚本位置文档
+[33mdca8713a2ee3d7d490cfb85c5f992b78e8fa2711[m 数据库脚步
+[33ma004acee4b811c4b3e21c7414621968fea7c0092[m JeecgBoot 2.4 微服务正式版本发布，基于SpringBoot的低代码平台
+[33m35ef0eff907ad30d8d674e7bfc48e5f81ffa96a1[m 文档更新
+[33mc70fd3383ed86fb2e1f28441e4fa7afb2ecafc65[m 文档更新
+[33m3e2f640b68ae36ab95b3239da93438d5fff6bd70[m[33m ([m[1;33mtag: v2.3.0[m[33m, [m[1;31morigin/2.3.0[m[33m)[m autopoi导入导出组件系列问题
+[33mbf6c5f46234e905cfcfbbc0ce31713a11d1e6e6e[m Merge branch 'master' of https://github.com/zhangdaiscott/jeecg-boot.git
+[33mdf259385ecc03f82873db042e96623cf842de14f[m jeecgboot-mysql-5.7.sql被别人提交导致不完整  #1985
+[33mc5f51a17daf5b79232ce51eb443e1939ad81c5bb[m Merge pull request #1966 from tank99tank/no_query_params
+[33m94c0610496f6e36b3665523174a68d4c4f141b18[m SpringBoot 请求参数包含 [] 特殊符号　返回400状态 #1795
+[33mccf4946b70c57c7531a425ad2e3a4a3d8db563de[m 导出参数没有高级查询参数 #1860
+[33m3b4a65ba04963a27081bcd70381475ee27dff99d[m Merge pull request #1731 from CharlieJ0hn/master
+[33m3a8ae4c08942c69ff5ce70cb4d4c4a553eb47175[m Merge pull request #1900 from Pa-Star-Home/master
+[33m88eb98c0e604b670eff3b8d1faf1af17624969d0[m[33m ([m[1;33mtag: 2.3.0[m[33m)[m 解决前端页面改变浏览器窗口大小后，菜单展开按钮失效，无法展开菜单，无法操作 #1913
+[33m63048d8c6452d41a29c3820ffdf97f7ab807c868[m bugfix: fix mybatis param import error; fix integer object compare use == error
+[33me8a18fc642bbb9db0f8a316e9d80199721a5d55c[m Online一分钟快速体验
+[33mfa0c930886066f0ef47d17598c7b94ea78152b6f[m 解决j-image-upload图片组件单张图片详情回显空白 #1810
+[33m708aa54f3a141f0f8c9066585cbb74e171dae788[m QQ交流群 ：  ③816531124、②769925425（满）、①284271917（满）
+[33m57337f798013e9d8a52004cb6b5598eadd8ae432[m 代码生成器模板（内嵌子表风格列表页面）按钮错位问题修复  issues/I1WHR0
+[33m89f4d122dd1bc97d972bb5ad4a83f96b0b633532[m 在线切换部门，用户缓存信息更新 issues/I1X4DT
+[33mb92bec3eed3db8a59ad74579c4547814248282e7[m 登入生成token的小bug issues/I1XOVS
+[33m72f32e47a0009098ef7b807064ebbaf4b5b16412[m 微服务技术：Spring Cloud Alibaba、Nacos、Gateway、Sentinel、Skywarking、SpringBootAdmin监控
+[33m43908013e346643ee39318f0043b04453e4fd99d[m 微服务整体解决方案
+[33m80bd1a3f23d8c69cac6ebdc5c95032735073d41c[m 支持Spring Cloud Alibaba
+[33mde60ea050ca9e6f6c795bcc679646a5be91a1ffb[m 微服务架构图
+[33m7cb3dce26231a0bfbb80ecf5c3724d07b2a0f0ab[m [版本发布](v2.3)
+[33m416c8df729cef3fee5c03dca2d659ad59d6bcbf3[m 解�
